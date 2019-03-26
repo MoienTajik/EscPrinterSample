@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcsPrinterTest", "EcsPrinterTest\EcsPrinterTest.csproj", "{DAFC8EF0-A445-4BB3-9C4D-DF5FE1C1DFBE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscPrinterTest", "EscPrinterTest\EscPrinterTest.csproj", "{DAFC8EF0-A445-4BB3-9C4D-DF5FE1C1DFBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
