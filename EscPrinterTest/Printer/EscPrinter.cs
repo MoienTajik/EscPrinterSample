@@ -3,9 +3,9 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Net.Sockets;
+using SkiaSharp;
 using System.Threading;
 using System.Threading.Tasks;
-using SkiaSharp;
 
 namespace EscPrinterTest.Printer
 {
